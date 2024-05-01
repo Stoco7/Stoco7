@@ -1,6 +1,5 @@
 # **Eduardo Stoco**
 ### Meu nome é Eduardo Stoco, seja bem vindo ao meu perfil
-- 🎯 Cursando Técnico em Informática - Senac Americana
 
 Redes Sociais  
 <div> 
@@ -22,7 +21,7 @@ Redes Sociais
 Fundamentos de Lógica de Programação 
 
 ## **Meus cursos**
-**SENAC** - Técnico em informática
+- 🎯 Cursando Técnico em Informática - Senac Americana
 ## **Sistema Operacional**
  
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0) 
