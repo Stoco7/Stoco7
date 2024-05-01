@@ -27,7 +27,9 @@ Redes Sociais
     <img align="center" alt="stoco-GitHub" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
-    
+
+<br>
+
 <div>
     <img align="center" alt="Stoco-HTML" height="170"  src="https://github-readme-stats.vercel.app/api?username=Stoco7&show_icons=true&theme=radical">
     <img align="center" alt="Stoco-HTML" height="170"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stoco7&layout=compact&theme=radical">
