@@ -1,9 +1,8 @@
 # **Eduardo Stoco**
-##
 ### Meu nome é Eduardo Stoco, seja bem vindo ao meu perfil
 - 🎯 Cursando Técnico em Informática - Senac Americana
 
-##Redes Sociais  
+Redes Sociais  
 <div> 
     <a href="https://www.instagram.com/eduardo_stoco/" target="_blank"><img width="110" height="30" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href ="mailto:stoco.eduardo@gmail.com" target="_blank"><img width="110" height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
