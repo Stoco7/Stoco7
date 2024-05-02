@@ -11,7 +11,7 @@ Redes Sociais
     <a href="https://www.twitch.tv/stoco7" target="_blank"><img width="110" height="30" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 </div>
 
-###Conhecimento
+## Conhecimento
 
 <div>
     <img align="center" alt="stoco-HTML" height="30" width="40"
