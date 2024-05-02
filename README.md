@@ -21,7 +21,7 @@ Redes Sociais
     <img align="center" alt="stoco-Js" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="stoco-PHP" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
     <img align="center" alt="stoco-Git" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="stoco-GitHub" height="30" width="40"
