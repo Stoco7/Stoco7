@@ -25,7 +25,7 @@ Redes Sociais
     <img align="center" alt="stoco-Git" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="stoco-GitHub" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
+        src="https://icons8.com.br/icon/3tC9EQumUAuq/github">
 </div>
 
 <br>
