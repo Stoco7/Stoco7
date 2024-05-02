@@ -3,6 +3,8 @@
 
 - 🎯 Cursando Técnico em Informática - Senac Americana
 
+##
+
 Redes Sociais  
 <div> 
     <a href ="mailto:stoco.eduardo@gmail.com" target="_blank"><img width="110" height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
