@@ -1,7 +1,7 @@
 # **Eduardo Stoco**
 ### Meu nome é Eduardo Stoco, seja bem vindo ao meu perfil!
 
-- 🎯 Cursando Técnico em Informática - Senac Americana
+- Técnico em Informática - Senac Americana
 
 ##
 
